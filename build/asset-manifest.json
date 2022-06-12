@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a92e9eb3.css",
+    "main.js": "/static/js/main.da42957d.js",
+    "static/js/787.db1e3268.chunk.js": "/static/js/787.db1e3268.chunk.js",
+    "static/media/head-02.png": "/static/media/head-02.4b8852647d98f460459f.png",
+    "static/media/graphical-abstracts.svg": "/static/media/graphical-abstracts.e8454c6e3e69db5fad03d1d4846f5a65.svg",
+    "static/media/scientific-papers.svg": "/static/media/scientific-papers.d5487a09f98ade689efb9e15a1432eb0.svg",
+    "static/media/better-slides.svg": "/static/media/better-slides.1a273cb8f0bb6cb45f0ec1349d6b4eff.svg",
+    "static/media/logo.svg": "/static/media/logo.1eb2796bf23665fac1a9a8ebe2f5d709.svg",
+    "static/media/ico_odemand.svg": "/static/media/ico_odemand.07dd44a35c2ad55d69a1683faa568dce.svg",
+    "static/media/ico_drag.svg": "/static/media/ico_drag.6fbeb3ad0402fbb3c2359b43414cf603.svg",
+    "static/media/ico_platform.svg": "/static/media/ico_platform.b5788f6cf63db33478901798f5b890c7.svg",
+    "static/media/ico_premade.svg": "/static/media/ico_premade.46e69f4584f2b27ac8c6fee40132bcbe.svg",
+    "static/media/ico_share.svg": "/static/media/ico_share.9519bdc0a52f08a1ebb7eda6b264bd59.svg",
+    "static/media/ico_multiple.svg": "/static/media/ico_multiple.cb279a5140736db709275c9db33139b4.svg",
+    "index.html": "/index.html",
+    "main.a92e9eb3.css.map": "/static/css/main.a92e9eb3.css.map",
+    "main.da42957d.js.map": "/static/js/main.da42957d.js.map",
+    "787.db1e3268.chunk.js.map": "/static/js/787.db1e3268.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92e9eb3.css",
+    "static/js/main.da42957d.js"
+  ]
+}
