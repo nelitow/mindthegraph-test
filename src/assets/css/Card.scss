@@ -1,0 +1,26 @@
+.card {
+    text-align: center;
+
+    .link {
+         color: var(--primary-purple);        
+         text-transform: uppercase;
+         font-weight: bold;
+         background: none;
+         border: 0;
+
+        .chevron::before {
+            margin-right: 10px;
+            border-style: solid;
+            border-width: 2px 2px 0 0;
+            content: '';
+            display: inline-block;
+            height: 0.45em;
+            left: 0;
+            position: relative;
+            top: 0.15em;
+            transform: rotate(45deg);
+            vertical-align: top;
+            width: 0.45em;
+        }
+    }
+}
