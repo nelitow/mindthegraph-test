@@ -11,7 +11,7 @@
 .App {
   font-family: "Lato", sans-serif;
   background-color: #eeeeee;
-  width: 100vw;
+  width: 100%;
   overflow: hidden;
 
   .App-hero {
@@ -23,12 +23,16 @@
       flex-direction: row;
       align-items: flex-end;
 
-      .App-hero-image img {
-        align-self: center;
-        width: auto;
-        height: 427px;
-        margin-bottom: -40px;
-        margin-right: 100px;
+      .App-hero-image {
+        min-width: 50%;
+        img {
+          align-self: center;
+          width: 650px;
+          max-width: 100%;
+          height: auto;
+          margin-bottom: -40px;
+          margin-right: 100px;
+        }
       }
       .App-hero-text {
         margin: 150px 148px 60px 0;
@@ -77,7 +81,7 @@
       background-color: var(--secondary-purple);
       padding: 80px;
       max-width: calc(var(--container) - 146px);
-      
+
       @media screen and (max-width: 768px) {
         padding: 40px;
         max-width: 100%;
